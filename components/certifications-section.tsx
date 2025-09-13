@@ -27,8 +27,8 @@ export function CertificationsSection() {
       photo: "/course3.jpg",
     },
     {
-      title: "Project Management Professional (PMP)",
-      issuer: "PMI",
+      title: "BIM Fundamentals for Engineers",
+      issuer: "Coursera",
       date: "2023",
       icon: Award,
       photo: "/course4.jpg",
