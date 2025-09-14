@@ -97,9 +97,9 @@ export function Footer() {
                 <div className="flex items-start space-x-3">
                   <MapPin className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                   <div>
-                    <p className="text-background/80 text-sm">Based in</p>
+                    <p className="text-background/80 text-sm">Origin from</p>
                     <p className="text-background font-medium">
-                      Dhanbad, Jharkhand, India
+                      Rohtas, Bihar 
                     </p>
                   </div>
                 </div>
